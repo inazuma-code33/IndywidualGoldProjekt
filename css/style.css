@@ -1,0 +1,112 @@
+body {
+  font: 100% "Muli", sans-serif;
+  background-color: #fff;
+  color: black;
+}
+
+.section-title {
+  font-family: 'Kanit', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.section-subtitle {
+  font-style: italic;
+  color: #7f8c8d;
+}
+
+/* Navbar */
+.navbar-brand {
+  font-family: 'Lobster', cursive;
+  font-weight: 300;
+  color: #fed330;
+}
+
+.nav-link {
+  font-family: 'Kanit', sans-serif;
+  font-size: 13px;
+  text-transform: uppercase;
+}
+
+/* Splash */
+.jumbotron {
+  min-height: 450px;
+  color: #fff;
+  background-image: url("https://i.postimg.cc/mDq6FtcT/conceptual-equipment-gears-mechanical-207483.jpg");
+  background-size: cover;
+}
+
+.jumbotron-container {
+  margin-top: 60px;
+}
+
+.jumbotron-container h1 {
+  font-weight: 700;
+}
+
+.jumbotron-container p {
+  margin: 20px auto;
+}
+
+.jumbotron-container .btn {
+  margin-top: 20px;
+  background-color: #fed330;
+  border: none;
+  font-size: 16px;
+}
+
+/* Services */
+.services p {
+  color: #7f8c8d;
+  font-size: 16px;
+}
+
+.serv-title {
+  font-weight: 700;
+}
+
+.services .fas {
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  color: #fed330;
+  font-size: 30px;
+  text-align: center;
+}
+
+/* Portfolio*/
+.portfolio {
+  background-color: #f5f6fa;
+}
+
+.card-img-top {
+  min-height: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+/*Footer*/
+.social-media ul {
+  list-style-type: none;
+}
+
+.social-media li {
+  display: inline;
+  font-size: 0;
+}
+
+.fab {
+  margin-left: 10px;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  border-radius: 50%;
+  background-color: black;
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+}
+
+@media {
+}
+/*# sourceMappingURL=style.css.map */
