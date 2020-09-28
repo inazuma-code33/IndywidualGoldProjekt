@@ -1,0 +1,1 @@
+Projekt oparty na fascynacji i chęci treningu
